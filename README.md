@@ -1,0 +1,2 @@
+# Big-Data-Project-on-Chicago-Crime-Dataset-ML-for-Arrest-Predection-Time-Series-Forcasting-Power-BI
+A cloud-based platform on Azure analysed 8M+ Chicago crime records using XGBoost for arrest prediction and SARIMA for 12-month forecasting. Interactive Power BI dashboards and a Gradio app enabled real-time insights, demonstrating scalable, cost-effective big data analytics for smart city policing.
